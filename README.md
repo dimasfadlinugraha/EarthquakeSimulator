@@ -6,8 +6,8 @@
 
 ## How To Run Project
 * First create a project in unity
-* Name that project 'EarthquakeSimulator' 
-* Clone repository and set local path directed to your 'EarthquakeSimulator' project directory
+* Name that project `EarthquakeSimulator`
+* Clone repository and set local path directed to your `EarthquakeSimulator` project directory
 * All Done!
 
 ## Team
